@@ -1,0 +1,106 @@
+<!DOCTYPE HTML>
+<!--
+	Directive by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+<head>
+    <title>Directive by HTML5 UP</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+    <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet'>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- Header -->
+<div id="header">
+    <span class="logo icon fa-spotify"></span>
+    <h1>Meu top 50</h1>
+    <p>Sempre me considerei uma pessoa que "escuta de tudo um pouco", apesar disso, sempre tive vontade de responder de forma mais clara essa questão. <br>
+        Na visualização abaixo podemos observar os meus top 50 artistas das ultimas 4 semanas e as suas relações entre si
+    </p>
+</div>
+
+<!-- Main -->
+<div id="main">
+
+    <div class="box container">
+        <section>
+            <p>Abaixo temos uma rede que mostra as relações mensionadas anteriormente.
+                Para ressaltar por género posicione o mouse em cima do género desejado.
+                A qualquer momento você pode posicionar o mouse em cima de um artista para ver com quem este esta diretamente relacionado.
+                Por fim, tambem é possivel clicar em cima de um artista para abrir a sua pagina do Spotify em uma nova aba.
+            </p>
+        </section>
+        <section>
+            <svg width="930" height="630">
+                <defs>
+                    <filter id="greyscale">
+                        <feColorMatrix
+                                type="matrix"
+                                values="0 1 0 0 0
+                  0 1 0 0 0
+                  0 1 0 0 0
+                  0 1 0 1 0 ">
+                        </feColorMatrix>
+                    </filter>
+                </defs>
+            </svg>
+        </section>
+        <header>
+            <h2>Grupos bem distintos, do rock ao axe!</h2>
+        </header>
+        <section>
+            <h4>
+                Apartir desta visualização é possivel concluir algumas coisas sobre meu gosto musical:
+            </h4>
+            <ul class="default">
+                <li>
+                    Tenho um grupo de artistas do genero reggae/hiphop/rock brasileiro.
+                </li>
+                <li>
+                    Tenho outro grupo bem conectado do genero forro/sertanejo
+                </li>
+                <li>
+                    Existem varios géneros musicais, varios artistas desconecatados o que suporta a teoria de "ouvir um pouco de cada coisa"
+                </li>
+
+            </ul>
+        </section>
+    </div>
+
+
+</div>
+
+<!-- Footer -->
+<div id="footer">
+    <div class="container 75%">
+
+        <ul class="icons">
+            <li><a href="https://github.com/ss1993/my-spotify-top50" class="icon fa-github"><span class="label">Github</span></a></li>
+        </ul>
+
+        <ul class="copyright">
+            <li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+        </ul>
+
+    </div>
+</div>
+
+<!-- Scripts -->
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/skel.min.js"></script>
+<script src="assets/js/util.js"></script>
+<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+<script src="assets/js/main.js"></script>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.24.0/d3-legend.js"></script>
+<script src="scripts/music_graph.js"></script>
+
+</body>
+</html>

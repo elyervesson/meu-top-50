@@ -1,0 +1,905 @@
+{
+  "nodes": [
+    {
+      "id": "3GBPw9NK25X1Wt2OUvOwY3",
+      "name": "Jack Johnson",
+      "genres": [
+        "neo mellow"
+      ],
+      "img": "https://i.scdn.co/image/1167d2ed944ec63bcd986515518e774ea15ceb63",
+      "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+    },
+    {
+      "id": "1AL2GKpmRrKXkYIcASuRFa",
+      "name": "Wesley Safadão",
+      "genres": [
+        "forro"
+      ],
+      "img": "https://i.scdn.co/image/623a7d1401b6d8e90878d9a50b1128acf20f15a8",
+      "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+    },
+    {
+      "id": "2Z0lRIqr997lIUiPtrpKCr",
+      "name": "Matheus & Kauan",
+      "genres": [],
+      "img": "https://i.scdn.co/image/4be268cc5841e09531929ccfc4b752181648da80",
+      "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+    },
+    {
+      "id": "1A5QJAC1vdhbhPE25Q0x0f",
+      "name": "O Rappa",
+      "genres": [
+        "brazilian electronica",
+        "brazilian hip hop",
+        "latin alternative",
+        "mpb"
+      ],
+      "img": "https://i.scdn.co/image/693ff944b53dfdf63c09fc13e600e9f9e126508b",
+      "url": "https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f"
+    },
+    {
+      "id": "1w5Kfo2jwwIPruYS2UWh56",
+      "name": "Pearl Jam",
+      "genres": [
+        "alternative metal",
+        "alternative rock",
+        "classic rock",
+        "grunge",
+        "hard rock",
+        "permanent wave",
+        "post-grunge",
+        "rock"
+      ],
+      "img": "https://i.scdn.co/image/c81eba161ff623248dd8a6e8a3b3c383c92cf454",
+      "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+    },
+    {
+      "id": "0hEurMDQu99nJRq8pTxO14",
+      "name": "John Mayer",
+      "genres": [
+        "neo mellow",
+        "pop",
+        "pop rock",
+        "singer-songwriter"
+      ],
+      "img": "https://i.scdn.co/image/f0e8d6a32549e39ed2d13f79e1f6561bcd44cc1f",
+      "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+    },
+    {
+      "id": "1on7ZQ2pvgeQF4vmIA09x5",
+      "name": "Charlie Brown Jr.",
+      "genres": [],
+      "img": "https://i.scdn.co/image/6a8ae92bbac68d28693e6df866f064f798b4b51e",
+      "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+    },
+    {
+      "id": "4PhdYoQGH8s1xee81dqQOO",
+      "name": "Natiruts",
+      "genres": [],
+      "img": "https://i.scdn.co/image/f886f60b638f6d0b773f2ed7cfe08249fee66198",
+      "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+    },
+    {
+      "id": "2CnIQjA5rvfvIbxSiRUsQD",
+      "name": "Hozen",
+      "genres": [],
+      "img": "https://i.scdn.co/image/b3280f64592c21dc384ab4f289d7a97e0f51774e",
+      "url": "https://open.spotify.com/artist/2CnIQjA5rvfvIbxSiRUsQD"
+    },
+    {
+      "id": "3TVXtAsR1Inumwj472S9r4",
+      "name": "Drake",
+      "genres": [
+        "canadian pop",
+        "hip hop",
+        "pop rap",
+        "rap"
+      ],
+      "img": "https://i.scdn.co/image/085ae2e76f402468fe9982851b51cf876e4f20fe",
+      "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+    },
+    {
+      "id": "12Chz98pHFMPJEknJQMWvI",
+      "name": "Muse",
+      "genres": [
+        "alternative rock",
+        "modern rock",
+        "permanent wave",
+        "piano rock",
+        "post-grunge",
+        "rock"
+      ],
+      "img": "https://i.scdn.co/image/f026a6204c28907e43e833eaa1820f9b674295ca",
+      "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+    },
+    {
+      "id": "1r4hJ1h58CWwUQe3MxPuau",
+      "name": "Maluma",
+      "genres": [
+        "reggaeton"
+      ],
+      "img": "https://i.scdn.co/image/8ff7bf103312d1f5faa128b5326bd9c1da4cc2ab",
+      "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+    },
+    {
+      "id": "7jy3rLJdDQY21OgRLCZ9sD",
+      "name": "Foo Fighters",
+      "genres": [
+        "alternative metal",
+        "alternative rock",
+        "modern rock",
+        "permanent wave",
+        "post-grunge",
+        "rock"
+      ],
+      "img": "https://i.scdn.co/image/45fa252dbb712dffd078f0d0930379bf41111cf2",
+      "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+    },
+    {
+      "id": "4nDoRrQiYLoBzwC5BhVJzF",
+      "name": "Camila Cabello",
+      "genres": [
+        "dance pop",
+        "pop",
+        "post-teen pop"
+      ],
+      "img": "https://i.scdn.co/image/aa9f03ea0bd3bda2683a6598361942561f7fd3aa",
+      "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+    },
+    {
+      "id": "1vyhD5VmyZ7KMfW5gqLgo5",
+      "name": "J Balvin",
+      "genres": [
+        "latin",
+        "reggaeton"
+      ],
+      "img": "https://i.scdn.co/image/33f318206ffde754d7537c547375a3f8581cf43a",
+      "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+    },
+    {
+      "id": "4mnhyGRAuExTL4J0soT4za",
+      "name": "Aviões do Forró",
+      "genres": [
+        "axe",
+        "forro",
+        "pagode",
+        "sertanejo universitario"
+      ],
+      "img": "https://i.scdn.co/image/9a85ac0a0769dd1d8c0a8a8ec613623234859897",
+      "url": "https://open.spotify.com/artist/4mnhyGRAuExTL4J0soT4za"
+    },
+    {
+      "id": "1kDGbuxWknIKx4FlgWxiSp",
+      "name": "Nothing But Thieves",
+      "genres": [
+        "alternative pop rock",
+        "modern rock"
+      ],
+      "img": "https://i.scdn.co/image/aa2a4bb981157a1e1e1995130bb81f7e31bb9468",
+      "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+    },
+    {
+      "id": "74B3SJ1xNHK3VS4T9i2TvQ",
+      "name": "Banda Magníficos",
+      "genres": [
+        "axe",
+        "forro",
+        "pagode"
+      ],
+      "img": "https://i.scdn.co/image/744f0a941816781f8f20585a3ba600fb816bdf12",
+      "url": "https://open.spotify.com/artist/74B3SJ1xNHK3VS4T9i2TvQ"
+    },
+    {
+      "id": "7xuzwG9aC7R0ftU6OSs6pX",
+      "name": "Ls Jack",
+      "genres": [],
+      "img": "https://i.scdn.co/image/5864b355588993a269c8e2d46576394facfed97e",
+      "url": "https://open.spotify.com/artist/7xuzwG9aC7R0ftU6OSs6pX"
+    },
+    {
+      "id": "246dkjvS1zLTtiykXe5h60",
+      "name": "Post Malone",
+      "genres": [
+        "pop",
+        "rap"
+      ],
+      "img": "https://i.scdn.co/image/d6e77d06a98dae03be57cff1e3e0980ba66b24a9",
+      "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+    },
+    {
+      "id": "3WQ1s2QFvL6crxBvrVhwzj",
+      "name": "Gabriel Diniz",
+      "genres": [
+        "axe",
+        "forro"
+      ],
+      "img": "https://i.scdn.co/image/908a22c78a6335de879d69e05f91f5ea553c8f1e",
+      "url": "https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj"
+    },
+    {
+      "id": "2DaxqgrOhkeH0fpeiQq2f4",
+      "name": "Oasis",
+      "genres": [
+        "britpop",
+        "modern rock",
+        "permanent wave",
+        "rock"
+      ],
+      "img": "https://i.scdn.co/image/b4d024ebb4863438b92a1b029bff7f9737263a57",
+      "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+    },
+    {
+      "id": "2gzwjs75n4HZZfgnVGxoqI",
+      "name": "Limão Com Mel",
+      "genres": [
+        "axe",
+        "forro"
+      ],
+      "img": "https://i.scdn.co/image/1af7cb82bcd39e0f14df04c974081fed1009d1bf",
+      "url": "https://open.spotify.com/artist/2gzwjs75n4HZZfgnVGxoqI"
+    },
+    {
+      "id": "1SupJlEpv7RS2tPNRaHViT",
+      "name": "Nicky Jam",
+      "genres": [
+        "latin",
+        "latin hip hop",
+        "pop",
+        "reggaeton",
+        "tropical"
+      ],
+      "img": "https://i.scdn.co/image/8de331e2391689b764a666e6573873404648eefd",
+      "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+    },
+    {
+      "id": "3KV3p5EY4AvKxOlhGHORLg",
+      "name": "Jeremih",
+      "genres": [
+        "dance pop",
+        "indie r&b",
+        "pop",
+        "pop christmas",
+        "pop rap",
+        "r&b",
+        "rap",
+        "southern hip hop",
+        "trap music",
+        "urban contemporary"
+      ],
+      "img": "https://i.scdn.co/image/4ee02169dbe5f8e42214c26f1d4592d2032f3384",
+      "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+    },
+    {
+      "id": "3TOqt5oJwL9BE2NG9MEwDa",
+      "name": "Disturbed",
+      "genres": [
+        "alternative metal",
+        "nu metal",
+        "post-grunge",
+        "rap rock"
+      ],
+      "img": "https://i.scdn.co/image/1440191b5fcc31f5ad00c52eb0e90b642c1c6dc9",
+      "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+    },
+    {
+      "id": "3qm84nBOXUEQ2vnTfUTTFC",
+      "name": "Guns N' Roses",
+      "genres": [
+        "album rock",
+        "classic rock",
+        "glam metal",
+        "hard rock",
+        "rock"
+      ],
+      "img": "https://i.scdn.co/image/7fad9d837d4132de0008da41b98ce3fc29433d7e",
+      "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+    },
+    {
+      "id": "5BWqFYIPTnFx3OPWOoJvmD",
+      "name": "Gabriel O Pensador",
+      "genres": [
+        "brazilian hip hop",
+        "rock gaucho"
+      ],
+      "img": "https://i.scdn.co/image/5d98a7c791955aaa24f6d0a2074f3c1b1482a65b",
+      "url": "https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD"
+    },
+    {
+      "id": "0L8ExT028jH3ddEcZwqJJ5",
+      "name": "Red Hot Chili Peppers",
+      "genres": [
+        "alternative metal",
+        "alternative rock",
+        "funk metal",
+        "permanent wave",
+        "post-grunge",
+        "rock"
+      ],
+      "img": "https://i.scdn.co/image/a7af6412632c81ebfb5e39495aa3dacc564cb22b",
+      "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+    },
+    {
+      "id": "7Ln80lUS6He07XvHI8qqHH",
+      "name": "Arctic Monkeys",
+      "genres": [
+        "garage rock",
+        "indie rock",
+        "modern rock",
+        "permanent wave",
+        "sheffield indie"
+      ],
+      "img": "https://i.scdn.co/image/e1f00ceabce8dd0480bad7e873993082d9ac3fe9",
+      "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+    },
+    {
+      "id": "2MqhkhX4npxDZ62ObR5ELO",
+      "name": "Hoobastank",
+      "genres": [
+        "alternative metal",
+        "emo",
+        "funk metal",
+        "modern rock",
+        "nu metal",
+        "pop punk",
+        "pop rock",
+        "post-grunge",
+        "rap metal",
+        "rap rock"
+      ],
+      "img": "https://i.scdn.co/image/0cf12fad71cbf0dd47dfa8e9ffe8d5b72a7df7d9",
+      "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
+    },
+    {
+      "id": "3gd8FJtBJtkRxdfbTu19U2",
+      "name": "Mumford & Sons",
+      "genres": [
+        "folk-pop",
+        "indie folk",
+        "neo mellow"
+      ],
+      "img": "https://i.scdn.co/image/ed2faba8c2ec01a4d8418905fa3f96f3b8e7cc9d",
+      "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+    },
+    {
+      "id": "6Q192DXotxtaysaqNPy5yR",
+      "name": "Amy Winehouse",
+      "genres": [],
+      "img": "https://i.scdn.co/image/281635c3bbf95b0af935498631d2c3f3fe12db59",
+      "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+    },
+    {
+      "id": "29CQLw9uLWsl8Qkz9holfr",
+      "name": "Racionais MC's",
+      "genres": [
+        "brazilian hip hop",
+        "deep funk carioca"
+      ],
+      "img": "https://i.scdn.co/image/323ecf7cecd1b7f85d15d6cc03235ffa09f9710d",
+      "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+    },
+    {
+      "id": "0rexWKb4rBwWS07SoHqsX0",
+      "name": "Vanguart",
+      "genres": [
+        "baile pop",
+        "brazilian indie",
+        "mpb",
+        "rock gaucho"
+      ],
+      "img": "https://i.scdn.co/image/b77ae66fccdc82e7876e64072f1234a6f0127a84",
+      "url": "https://open.spotify.com/artist/0rexWKb4rBwWS07SoHqsX0"
+    },
+    {
+      "id": "4HP9KltldfmkH2M2pQozzN",
+      "name": "Ana Carolina",
+      "genres": [
+        "baile pop",
+        "mpb",
+        "samba"
+      ],
+      "img": "https://i.scdn.co/image/7955327db8f67c60803fa0c6c8191531e892cb89",
+      "url": "https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN"
+    },
+    {
+      "id": "4cx31cxKTg5L8blZE24qfZ",
+      "name": "Cidade Negra",
+      "genres": [
+        "axe",
+        "mpb",
+        "pagode",
+        "rock gaucho"
+      ],
+      "img": "https://i.scdn.co/image/cc1f837298c4feb6862930b9b6371e82a68656cd",
+      "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
+    },
+    {
+      "id": "2jnIB6XdLvnJUeNTy5A0J2",
+      "name": "Why Don't We",
+      "genres": [
+        "post-teen pop",
+        "teen pop"
+      ],
+      "img": "https://i.scdn.co/image/34ac9e28227ca2bae17a0761c5a34c820cc29b9d",
+      "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+    },
+    {
+      "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+      "name": "The Weeknd",
+      "genres": [
+        "canadian pop",
+        "pop",
+        "rap"
+      ],
+      "img": "https://i.scdn.co/image/22e74f760f42dc5a8f91b8dbbbd38a0c6eaacbf4",
+      "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+    },
+    {
+      "id": "22bE4uQ6baNwSHPVcDxLCe",
+      "name": "The Rolling Stones",
+      "genres": [
+        "album rock",
+        "british invasion",
+        "classic rock",
+        "folk rock",
+        "mellow gold",
+        "protopunk",
+        "rock"
+      ],
+      "img": "https://i.scdn.co/image/52ea78f264323daeffd1116d6fbd8d6c65a736ab",
+      "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+    },
+    {
+      "id": "5dk0R5am4zMYmG6uyZwfkW",
+      "name": "Seu Pereira e Coletivo 401",
+      "genres": [],
+      "img": "https://i.scdn.co/image/1a7872b5ad04ec2e9ce1aa23954424b05d632d84",
+      "url": "https://open.spotify.com/artist/5dk0R5am4zMYmG6uyZwfkW"
+    },
+    {
+      "id": "5eAWCfyUhZtHHtBdNk56l1",
+      "name": "System Of A Down",
+      "genres": [
+        "alternative metal",
+        "hard rock",
+        "nu metal",
+        "post-grunge",
+        "rock"
+      ],
+      "img": "https://i.scdn.co/image/2d4dff219617a2d1d52084096e9dfa3a68ff778d",
+      "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+    },
+    {
+      "id": "6PAt558ZEZl0DmdXlnjMgD",
+      "name": "Eric Clapton",
+      "genres": [
+        "album rock",
+        "art rock",
+        "blues-rock",
+        "classic rock",
+        "electric blues",
+        "mellow gold",
+        "rock",
+        "roots rock",
+        "singer-songwriter",
+        "soft rock"
+      ],
+      "img": "https://i.scdn.co/image/96fbdd004b8bf775a22f17784ab0a185f5fa6e7a",
+      "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+    },
+    {
+      "id": "0jD7VeE1m2SdHbOWeCtB9l",
+      "name": "Naiara Azevedo",
+      "genres": [
+        "sertanejo universitario"
+      ],
+      "img": "https://i.scdn.co/image/d296b0d8b2a5314def18cb00ed6970c082f2dd58",
+      "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
+    },
+    {
+      "id": "5rrmaoBXZ7Jcs4Qb77j0YA",
+      "name": "Djavan",
+      "genres": [
+        "bossa nova",
+        "mpb",
+        "samba"
+      ],
+      "img": "https://i.scdn.co/image/744dddb2679f5091a1e5c482bf6e372514ce8198",
+      "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+    },
+    {
+      "id": "2RTUTCvo6onsAnheUk3aL9",
+      "name": "3 Doors Down",
+      "genres": [
+        "alternative metal",
+        "alternative rock",
+        "heavy christmas",
+        "nu metal",
+        "pop punk",
+        "pop rock",
+        "post-grunge",
+        "rap metal",
+        "rap rock",
+        "rock"
+      ],
+      "img": "https://i.scdn.co/image/cbebca19077e1d260af99733c7313d83f5c30a73",
+      "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+    },
+    {
+      "id": "3MDJ79txY73BUpAR7RnJEk",
+      "name": "Onze:20",
+      "genres": [],
+      "img": "https://i.scdn.co/image/0e623f4f83071aeb662310355a3cdb59abca94b5",
+      "url": "https://open.spotify.com/artist/3MDJ79txY73BUpAR7RnJEk"
+    },
+    {
+      "id": "6rNz4V8ocdBOLgXmLxLVcW",
+      "name": "Chimarruts",
+      "genres": [
+        "rock gaucho"
+      ],
+      "img": "https://i.scdn.co/image/d249975b30df7212eb5af41596a7e4fa964c7e88",
+      "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
+    },
+    {
+      "id": "5Y8eJDj37KhaEeqbVO7Ag1",
+      "name": "PRETTYMUCH",
+      "genres": [
+        "pop",
+        "post-teen pop",
+        "teen pop"
+      ],
+      "img": "https://i.scdn.co/image/ac399013421ab6f1d20e12168e3dc2addbb65bcf",
+      "url": "https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1"
+    },
+    {
+      "id": "1dfeR4HaWDbWqFHLkxsg1d",
+      "name": "Queen",
+      "genres": [
+        "album rock",
+        "classic rock",
+        "glam rock",
+        "heavy christmas",
+        "rock"
+      ],
+      "img": "https://i.scdn.co/image/c06971e9ff81696699b829484e3be165f4e64368",
+      "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+    }
+  ],
+  "edges": [
+    {
+      "source": "3GBPw9NK25X1Wt2OUvOwY3",
+      "target": "0hEurMDQu99nJRq8pTxO14",
+      "type": "neo mellow"
+    },
+    {
+      "source": "1AL2GKpmRrKXkYIcASuRFa",
+      "target": "0jD7VeE1m2SdHbOWeCtB9l",
+      "type": "sertanejo universitario"
+    },
+    {
+      "source": "1AL2GKpmRrKXkYIcASuRFa",
+      "target": "3WQ1s2QFvL6crxBvrVhwzj",
+      "type": "axe"
+    },
+    {
+      "source": "1AL2GKpmRrKXkYIcASuRFa",
+      "target": "4mnhyGRAuExTL4J0soT4za",
+      "type": "axe"
+    },
+    {
+      "source": "2Z0lRIqr997lIUiPtrpKCr",
+      "target": "0jD7VeE1m2SdHbOWeCtB9l",
+      "type": "sertanejo universitario"
+    },
+    {
+      "source": "1A5QJAC1vdhbhPE25Q0x0f",
+      "target": "5BWqFYIPTnFx3OPWOoJvmD",
+      "type": "brazilian hip hop"
+    },
+    {
+      "source": "1A5QJAC1vdhbhPE25Q0x0f",
+      "target": "4cx31cxKTg5L8blZE24qfZ",
+      "type": "axe"
+    },
+    {
+      "source": "1A5QJAC1vdhbhPE25Q0x0f",
+      "target": "1on7ZQ2pvgeQF4vmIA09x5",
+      "type": "Não informado"
+    },
+    {
+      "source": "1A5QJAC1vdhbhPE25Q0x0f",
+      "target": "4PhdYoQGH8s1xee81dqQOO",
+      "type": "Não informado"
+    },
+    {
+      "source": "1w5Kfo2jwwIPruYS2UWh56",
+      "target": "7jy3rLJdDQY21OgRLCZ9sD",
+      "type": "alternative metal"
+    },
+    {
+      "source": "0hEurMDQu99nJRq8pTxO14",
+      "target": "3GBPw9NK25X1Wt2OUvOwY3",
+      "type": "neo mellow"
+    },
+    {
+      "source": "1on7ZQ2pvgeQF4vmIA09x5",
+      "target": "1A5QJAC1vdhbhPE25Q0x0f",
+      "type": "brazilian electronica"
+    },
+    {
+      "source": "1on7ZQ2pvgeQF4vmIA09x5",
+      "target": "5BWqFYIPTnFx3OPWOoJvmD",
+      "type": "brazilian hip hop"
+    },
+    {
+      "source": "4PhdYoQGH8s1xee81dqQOO",
+      "target": "4cx31cxKTg5L8blZE24qfZ",
+      "type": "axe"
+    },
+    {
+      "source": "4PhdYoQGH8s1xee81dqQOO",
+      "target": "6rNz4V8ocdBOLgXmLxLVcW",
+      "type": "rock gaucho"
+    },
+    {
+      "source": "4PhdYoQGH8s1xee81dqQOO",
+      "target": "1A5QJAC1vdhbhPE25Q0x0f",
+      "type": "brazilian electronica"
+    },
+    {
+      "source": "4PhdYoQGH8s1xee81dqQOO",
+      "target": "1on7ZQ2pvgeQF4vmIA09x5",
+      "type": "Não informado"
+    },
+    {
+      "source": "4PhdYoQGH8s1xee81dqQOO",
+      "target": "5BWqFYIPTnFx3OPWOoJvmD",
+      "type": "brazilian hip hop"
+    },
+    {
+      "source": "2CnIQjA5rvfvIbxSiRUsQD",
+      "target": "5dk0R5am4zMYmG6uyZwfkW",
+      "type": "Não informado"
+    },
+    {
+      "source": "2CnIQjA5rvfvIbxSiRUsQD",
+      "target": "0rexWKb4rBwWS07SoHqsX0",
+      "type": "baile pop"
+    },
+    {
+      "source": "3TVXtAsR1Inumwj472S9r4",
+      "target": "3KV3p5EY4AvKxOlhGHORLg",
+      "type": "dance pop"
+    },
+    {
+      "source": "12Chz98pHFMPJEknJQMWvI",
+      "target": "7jy3rLJdDQY21OgRLCZ9sD",
+      "type": "alternative metal"
+    },
+    {
+      "source": "1r4hJ1h58CWwUQe3MxPuau",
+      "target": "1vyhD5VmyZ7KMfW5gqLgo5",
+      "type": "latin"
+    },
+    {
+      "source": "7jy3rLJdDQY21OgRLCZ9sD",
+      "target": "1w5Kfo2jwwIPruYS2UWh56",
+      "type": "alternative metal"
+    },
+    {
+      "source": "7jy3rLJdDQY21OgRLCZ9sD",
+      "target": "2MqhkhX4npxDZ62ObR5ELO",
+      "type": "alternative metal"
+    },
+    {
+      "source": "7jy3rLJdDQY21OgRLCZ9sD",
+      "target": "12Chz98pHFMPJEknJQMWvI",
+      "type": "alternative rock"
+    },
+    {
+      "source": "1vyhD5VmyZ7KMfW5gqLgo5",
+      "target": "1r4hJ1h58CWwUQe3MxPuau",
+      "type": "reggaeton"
+    },
+    {
+      "source": "1vyhD5VmyZ7KMfW5gqLgo5",
+      "target": "1SupJlEpv7RS2tPNRaHViT",
+      "type": "latin"
+    },
+    {
+      "source": "4mnhyGRAuExTL4J0soT4za",
+      "target": "2gzwjs75n4HZZfgnVGxoqI",
+      "type": "axe"
+    },
+    {
+      "source": "4mnhyGRAuExTL4J0soT4za",
+      "target": "3WQ1s2QFvL6crxBvrVhwzj",
+      "type": "axe"
+    },
+    {
+      "source": "4mnhyGRAuExTL4J0soT4za",
+      "target": "74B3SJ1xNHK3VS4T9i2TvQ",
+      "type": "axe"
+    },
+    {
+      "source": "74B3SJ1xNHK3VS4T9i2TvQ",
+      "target": "2gzwjs75n4HZZfgnVGxoqI",
+      "type": "axe"
+    },
+    {
+      "source": "74B3SJ1xNHK3VS4T9i2TvQ",
+      "target": "4mnhyGRAuExTL4J0soT4za",
+      "type": "axe"
+    },
+    {
+      "source": "3WQ1s2QFvL6crxBvrVhwzj",
+      "target": "4mnhyGRAuExTL4J0soT4za",
+      "type": "axe"
+    },
+    {
+      "source": "2gzwjs75n4HZZfgnVGxoqI",
+      "target": "74B3SJ1xNHK3VS4T9i2TvQ",
+      "type": "axe"
+    },
+    {
+      "source": "2gzwjs75n4HZZfgnVGxoqI",
+      "target": "4mnhyGRAuExTL4J0soT4za",
+      "type": "axe"
+    },
+    {
+      "source": "5BWqFYIPTnFx3OPWOoJvmD",
+      "target": "1A5QJAC1vdhbhPE25Q0x0f",
+      "type": "brazilian electronica"
+    },
+    {
+      "source": "5BWqFYIPTnFx3OPWOoJvmD",
+      "target": "1on7ZQ2pvgeQF4vmIA09x5",
+      "type": "Não informado"
+    },
+    {
+      "source": "5BWqFYIPTnFx3OPWOoJvmD",
+      "target": "29CQLw9uLWsl8Qkz9holfr",
+      "type": "brazilian hip hop"
+    },
+    {
+      "source": "5BWqFYIPTnFx3OPWOoJvmD",
+      "target": "4cx31cxKTg5L8blZE24qfZ",
+      "type": "axe"
+    },
+    {
+      "source": "0L8ExT028jH3ddEcZwqJJ5",
+      "target": "7jy3rLJdDQY21OgRLCZ9sD",
+      "type": "alternative metal"
+    },
+    {
+      "source": "0L8ExT028jH3ddEcZwqJJ5",
+      "target": "1w5Kfo2jwwIPruYS2UWh56",
+      "type": "alternative metal"
+    },
+    {
+      "source": "0L8ExT028jH3ddEcZwqJJ5",
+      "target": "5eAWCfyUhZtHHtBdNk56l1",
+      "type": "alternative metal"
+    },
+    {
+      "source": "2MqhkhX4npxDZ62ObR5ELO",
+      "target": "2RTUTCvo6onsAnheUk3aL9",
+      "type": "alternative metal"
+    },
+    {
+      "source": "29CQLw9uLWsl8Qkz9holfr",
+      "target": "5BWqFYIPTnFx3OPWOoJvmD",
+      "type": "brazilian hip hop"
+    },
+    {
+      "source": "4HP9KltldfmkH2M2pQozzN",
+      "target": "5rrmaoBXZ7Jcs4Qb77j0YA",
+      "type": "bossa nova"
+    },
+    {
+      "source": "4cx31cxKTg5L8blZE24qfZ",
+      "target": "1A5QJAC1vdhbhPE25Q0x0f",
+      "type": "brazilian electronica"
+    },
+    {
+      "source": "4cx31cxKTg5L8blZE24qfZ",
+      "target": "4PhdYoQGH8s1xee81dqQOO",
+      "type": "Não informado"
+    },
+    {
+      "source": "4cx31cxKTg5L8blZE24qfZ",
+      "target": "6rNz4V8ocdBOLgXmLxLVcW",
+      "type": "rock gaucho"
+    },
+    {
+      "source": "4cx31cxKTg5L8blZE24qfZ",
+      "target": "5BWqFYIPTnFx3OPWOoJvmD",
+      "type": "brazilian hip hop"
+    },
+    {
+      "source": "2jnIB6XdLvnJUeNTy5A0J2",
+      "target": "5Y8eJDj37KhaEeqbVO7Ag1",
+      "type": "pop"
+    },
+    {
+      "source": "1Xyo4u8uXC1ZmMpatF05PJ",
+      "target": "3TVXtAsR1Inumwj472S9r4",
+      "type": "canadian pop"
+    },
+    {
+      "source": "1Xyo4u8uXC1ZmMpatF05PJ",
+      "target": "3KV3p5EY4AvKxOlhGHORLg",
+      "type": "dance pop"
+    },
+    {
+      "source": "22bE4uQ6baNwSHPVcDxLCe",
+      "target": "6PAt558ZEZl0DmdXlnjMgD",
+      "type": "album rock"
+    },
+    {
+      "source": "5eAWCfyUhZtHHtBdNk56l1",
+      "target": "2MqhkhX4npxDZ62ObR5ELO",
+      "type": "alternative metal"
+    },
+    {
+      "source": "0jD7VeE1m2SdHbOWeCtB9l",
+      "target": "2Z0lRIqr997lIUiPtrpKCr",
+      "type": "Não informado"
+    },
+    {
+      "source": "5rrmaoBXZ7Jcs4Qb77j0YA",
+      "target": "4HP9KltldfmkH2M2pQozzN",
+      "type": "baile pop"
+    },
+    {
+      "source": "2RTUTCvo6onsAnheUk3aL9",
+      "target": "2MqhkhX4npxDZ62ObR5ELO",
+      "type": "alternative metal"
+    },
+    {
+      "source": "3MDJ79txY73BUpAR7RnJEk",
+      "target": "6rNz4V8ocdBOLgXmLxLVcW",
+      "type": "rock gaucho"
+    },
+    {
+      "source": "3MDJ79txY73BUpAR7RnJEk",
+      "target": "1on7ZQ2pvgeQF4vmIA09x5",
+      "type": "Não informado"
+    },
+    {
+      "source": "3MDJ79txY73BUpAR7RnJEk",
+      "target": "4PhdYoQGH8s1xee81dqQOO",
+      "type": "Não informado"
+    },
+    {
+      "source": "6rNz4V8ocdBOLgXmLxLVcW",
+      "target": "4PhdYoQGH8s1xee81dqQOO",
+      "type": "Não informado"
+    },
+    {
+      "source": "6rNz4V8ocdBOLgXmLxLVcW",
+      "target": "4cx31cxKTg5L8blZE24qfZ",
+      "type": "axe"
+    },
+    {
+      "source": "6rNz4V8ocdBOLgXmLxLVcW",
+      "target": "1on7ZQ2pvgeQF4vmIA09x5",
+      "type": "Não informado"
+    },
+    {
+      "source": "5Y8eJDj37KhaEeqbVO7Ag1",
+      "target": "2jnIB6XdLvnJUeNTy5A0J2",
+      "type": "post-teen pop"
+    },
+    {
+      "source": "1dfeR4HaWDbWqFHLkxsg1d",
+      "target": "22bE4uQ6baNwSHPVcDxLCe",
+      "type": "album rock"
+    },
+    {
+      "source": "1dfeR4HaWDbWqFHLkxsg1d",
+      "target": "3qm84nBOXUEQ2vnTfUTTFC",
+      "type": "album rock"
+    }
+  ]
+}
